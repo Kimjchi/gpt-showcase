@@ -9,7 +9,8 @@ import WhatGPT3 from './containers/whatgpt3/WhatGPT3.tsx'
 import Brand from './components/brand/Brand.tsx'
 import CTA from './components/cta/CTA.tsx'
 import Navbar from './components/navbar/Navbar.tsx'
-
+import './App.css'
+import './index.css'
 
 
 const App = () => {
